@@ -1,0 +1,8 @@
+{
+    "studentData": {
+        "getAll": "https://jntuademo.herokuapp.com/api/v1/studentData",
+        "post": "https://jntuademo.herokuapp.com/api/v1/studentData",
+        "put": "https://jntuademo.herokuapp.com/api/v1/studentData",
+        "delete": "https://jntuademo.herokuapp.com/api/v1/studentData"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "Employees": [
+        {
+            "_id":1,
+            "userId": "rirani",
+            "jobTitleName": "Developer",
+            "firstName": "Romin",
+            "lastName": "Irani",
+            "preferredFullName": "Romin Irani",
+            "employeeCode": "E1",
+            "region": "CA",
+            "phoneNumber": "408-1234567",
+            "emailAddress": "romin.k.irani@gmail.com"
+        },
+        {
+            "_id":2,
+            "userId": "nirani",
+            "jobTitleName": "Developer",
+            "firstName": "Neil",
+            "lastName": "Irani",
+            "preferredFullName": "Neil Irani",
+            "employeeCode": "E2",
+            "region": "CA",
+            "phoneNumber": "408-1111111",
+            "emailAddress": "neilrirani@gmail.com"
+        },
+        {
+            "_id":3,
+            "userId": "vamsi",
+            "jobTitleName": "Program Directory",
+            "firstName": "vamsi",
+            "lastName": "krishna",
+            "preferredFullName": "vamsi krishna",
+            "employeeCode": "E4",
+            "region": "GU",
+            "phoneNumber": "408-2222222",
+            "emailAddress": "vamsi@gmail.com"
+        },
+        {
+            "_id":4,
+            "userId": "thanks",
+            "jobTitleName": "Program Directory",
+            "firstName": "Tom",
+            "lastName": "Hanks",
+            "preferredFullName": "Tom Hanks",
+            "employeeCode": "E3",
+            "region": "CA",
+            "phoneNumber": "408-2222222",
+            "emailAddress": "tomhanks@gmail.com"
+        },
+        {
+            "_id":5,
+            "userId": "vivek",
+            "jobTitleName": "full stack developer",
+            "firstName": "vivek",
+            "lastName": "m",
+            "preferredFullName": "vivek m",
+            "employeeCode": "E5",
+            "region": "CA",
+            "phoneNumber": "408-2222222",
+            "emailAddress": "vivek@gmail.com"
+        }
+    ]
+}
